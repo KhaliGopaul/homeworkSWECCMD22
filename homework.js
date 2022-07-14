@@ -14,14 +14,14 @@ let car = {
 
     model: "Jeep",
     colour: "Red",
-    year = '2010',
+    year :'2010',
 }
-    console.log(car.model),
-    console.log(car.colour),
-    console.log(car.year),
+    console.log(car.model)
+    console.log(car.colour)
+    console.log(car.year)
 
 
-    let MyFavouritethings = ['dogs', 'coffee', 'vacations']
+    let myFavouriteThings = ['dogs', 'coffee', 'vacations']
 
     console.log(getElement(MFavouritethings))
 
